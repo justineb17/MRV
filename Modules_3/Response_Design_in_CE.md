@@ -1,10 +1,10 @@
 ---
-title: Module 3.3.2 How to create surveys in Collect and collect data using Collect Earth Desktop
+title: Module 3.3.2 Response Design in Collect Earth Desktop
 toc: true
 colorlinks: blue
 ---
 
-# Module 3.3.2 How to create surveys in Collect and collect data using Collect Earth Desktop 
+# Module 3.3.2 Response Design in Collect Earth Desktop 
 
 ## 1 Background
 
