@@ -1,10 +1,10 @@
 ---
-title: Module 3.3.3 Survey Form Creation and Reference Observation Collection with Collect Earth Online
+title: Module 3.3.3 Response Design in Collect Earth Online
 toc: true
 colorlinks: blue
 ---
 
-# Module 3.3.3 Survey Form Creation and Reference Observation Collection with Collect Earth Online
+# Module 3.3.3 Response Design in Collect Earth Online
 
 ## 1 Background
 
